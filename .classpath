@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/downloads/apache/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="F:/downloads/apache/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-excelant-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="F:/downloads/apache/jar_files/jar_files/jackson-core-2.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/downloads/apache/jar_files/jar_files/jackson-databind-2.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/downloads/apache/jar_files/jar_files/jackson-dataformat-csv-2.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/downloads/apache/jar_files/jar_files/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
